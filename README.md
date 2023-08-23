@@ -1,3 +1,3 @@
 # Rachel Chat
 
-_A.I Chat assistant_
+_AI Chat assistant_
