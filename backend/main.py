@@ -10,6 +10,7 @@ from decouple import config
 
 from functions.database import reset_messages, store_messages
 from functions.openai_requests import convert_audio_to_text, get_chat_response
+from functions.text_to_speech import convert_text_to_speech
 
 
 
